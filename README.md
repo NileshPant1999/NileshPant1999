@@ -33,12 +33,6 @@
   <em>
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="20px">&nbsp;Fun-Fact: I have <b>13 Reasons Why</b> ▶️&nbsp; to live Happy & Money is one of them... </em></p>
   
-<p align="center"> 
-  <i>Profile Visitor count</i><br>
-  <img src="https://profile-counter.glitch.me/NileshPant1999/count.svg" />
-</p>
-
-
 <!---
 NileshPant1999/NileshPant1999 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.

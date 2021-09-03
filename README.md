@@ -1,12 +1,12 @@
 
 <!-- <img src="https://github.com/NileshPant1999/NileshPant1999/blob/master/hello.gif" alt = "hello" width="40px" height="40px"> -->
-<h1 align="center"> <img src="https://github.com/NileshPant1999/nileshpant/blob/master/hello.gif" alt="hello-gif"> <br >I'm <a href="https://www.linkedin.com/in/nileshpant/">Nilesh Pant</a>👨‍💻</h1>
+<h1 align="center"> <img src="https://github.com/NileshPant1999/NileshPant1999/blob/main/hello.gif" alt="hello-gif"> <br >I'm <a href="https://www.linkedin.com/in/nileshpant/">Nilesh Pant</a>👨‍💻</h1>
 <!-- # Nilesh Pant 👨‍💻 -->
 
 # <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> Hello world!&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">           
 #### I'm Nilesh Pant, Student at 👨‍💻 Samrat Ashok Technical Institute, Vidisha. I am a tech enthusiast who loves building Scalale Web Applications and currently focusing on open source development and kubernetics.  
 
-<img align="right" alt="GIF" src="https://github.com/NileshPant1999/NileshPant1999/blob/master/web_character_dheeraj.gif" width="400px" />
+<img align="right" alt="GIF" src="https://github.com/NileshPant1999/NileshPant1999/blob/main/web_character_nilesh.gif" width="400px" />
 
 ## 🧐 About
 - 🏄‍ Android Developer who loves building amazing Applications.

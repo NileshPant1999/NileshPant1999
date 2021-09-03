@@ -1,39 +1,43 @@
 
-<h1 align="center"><b>Hello, fellow &lt coders </b><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">/&gt! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
-<br>
-<a href="https://www.linkedin.com/in/nileshpant/">
-  <img align="center" alt="Nilesh @LinkedIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-  <a href="mailto:pant.nilesh1999@gmail.com">
-  <img align="center" alt="Nilesh @Mail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
-</a>
+<!-- <img src="https://github.com/NileshPant1999/NileshPant1999/blob/master/hello.gif" alt = "hello" width="40px" height="40px"> -->
+<h1 align="center"> <img src="https://github.com/NileshPant1999/nileshpant/blob/master/hello.gif" alt="hello-gif"> <br >I'm <a href="https://www.linkedin.com/in/nileshpant/">Nilesh Pant</a>👨‍💻</h1>
+<!-- # Nilesh Pant 👨‍💻 -->
 
-<a href="https://www.instagram.com/_nilesh_pant_/">
-  <img align="center" alt="Nilesh @Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
-</h1>
+# <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> Hello world!&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">           
+#### I'm Nilesh Pant, Student at 👨‍💻 Samrat Ashok Technical Institute, Vidisha. I am a tech enthusiast who loves building Scalale Web Applications and currently focusing on open source development and kubernetics.  
 
+<img align="right" alt="GIF" src="https://github.com/NileshPant1999/NileshPant1999/blob/master/web_character_dheeraj.gif" width="400px" />
+
+## 🧐 About
+- 🏄‍ Android Developer who loves building amazing Applications.
+- 👨‍💻 I'm Androd Intern at [Zomato](https://www.zomato.com/).
+- 😄 I'm Android Lead at [DSCJSS](https://dsc.community.dev/jss-academy-of-technical-education-noida/).
+- 🤔 Looking some help with data structures and algorithms.
+- 🌱 I love to learn new things and ready to help others.
+- 💻 All of my projects are available [here](https://github.com/dheerajkotwani).
+- ⚡ In my free time, you'll find me listening music or watching some series
+- 📫 How to reach me: mail me at [dheeraj.kotwani41@gmail.com](mailto:dheeraj.kotwani41@gmail.com)
+- 🧙‍♂️ Currently working on Advance Android skills.
+- 💬 Ask me about anything and everything! 
+- 🎨 Fun Fact: Being hydrated increases my productivity.
+- 👯 And Many More...
+
+## ⚙ Tech Stack
 <p align="center">
-  <em>
-    I am Nilesh Pant, a 3rd year CSE undergraduate who likes to code.  <br><br>
-    A budding <b>Engineer</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> and a <b>Competitive Programming Enthusiast</b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px">&nbsp,<br>who is <b>interested</b> in knowing about how to use technology to help make people's lives more fulfilling.&nbsp.
-  </em> 
-  <br><br>
-  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"/>
-  <b>
-    <i>I am currently learning everything and working on something very cool this month </i></b> 
-  <img src="https://media.giphy.com/media/7j2hfyeVcDtf2/giphy.gif" width="50" /> 
-  <br><br>
+<img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/android-icon.svg" alt="Android" width="40" height="40"/> <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/java.svg" alt="Java" width="40" height="40"/> 
+<img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/kotlin.svg" alt="Kotlin" width="36" height="36"/>  
+<img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/c.svg" alt="C" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/c-plusplus.svg" alt="C++" width="40" height="40"/> 
+<img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/git-icon.svg" alt="C++" width="40" height="40"/> 
+<img src="https://github.com/gilbarbara/logos/blob/master/logos/python.svg" alt="python" width="40" height="40"/> 
+<img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> 
+<img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/firebase.svg" alt="Firebase" width="40" height="40"/> 
+<img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/figma.svg" alt="Android" width="40" height="40"/> 
 </p>
 
+|<img src="https://github-readme-stats.vercel.app/api?username=dheerajkotwani&&show_icons=true&&hide_border=false&&count_private=true&include_all_commits=true"/>|<img src="https://github-readme-streak-stats.herokuapp.com/?user=dheerajkotwani&&hide_border=false&&show_icons=true"/>|
+|---|---|
 
-<p  align="center"><img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" height="400"> 
-  
-  <p align="center">
-  <em>
-<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="20px">&nbsp;Fun-Fact: I have <b>13 Reasons Why</b> ▶️&nbsp; to live Happy & Money is one of them... </em></p>
-  
-<!---
-NileshPant1999/NileshPant1999 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dheerajkotwani&layout=compact"/>
+</p>

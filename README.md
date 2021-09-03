@@ -24,15 +24,16 @@
 
 ## ⚙ Tech Stack
 <p align="center">
-<img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/android-icon.svg" alt="Android" width="40" height="40"/> <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/java.svg" alt="Java" width="40" height="40"/> 
-<img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/kotlin.svg" alt="Kotlin" width="36" height="36"/>  
-<img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/c.svg" alt="C" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/django-icon.svg" alt="Django" width="40" height="40"/> 
+<img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/javascript.svg" alt="JavaScript" width="40" height="40"/> 
+<img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/react.svg" alt="Kotlin" width="36" height="36"/>  
+<img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/angular-icon.svg" alt="C" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/c-plusplus.svg" alt="C++" width="40" height="40"/> 
 <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/git-icon.svg" alt="C++" width="40" height="40"/> 
-<img src="https://github.com/gilbarbara/logos/blob/master/logos/python.svg" alt="python" width="40" height="40"/> 
-<img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> 
-<img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/firebase.svg" alt="Firebase" width="40" height="40"/> 
-<img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/figma.svg" alt="Android" width="40" height="40"/> 
+<img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/python.svg" alt="python" width="40" height="40"/> 
+<img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg" alt="AWS" width="40" height="40"/> 
+<img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/docker-icon.svg" alt="Dokcer" width="40" height="40"/> 
+<img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/kubernetes.svg" alt="Kubernetes" width="40" height="40"/> 
 </p>
 
 |<img src="https://github-readme-stats.vercel.app/api?username=NileshPant1999&&show_icons=true&&hide_border=false&&count_private=true&include_all_commits=true"/>|<img src="https://github-readme-streak-stats.herokuapp.com/?user=Nileshpant1999&&hide_border=false&&show_icons=true"/>|

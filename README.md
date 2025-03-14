@@ -14,7 +14,7 @@
 
 <!-- About Section with Image on the Right -->
 <p align="center">
-  #### I'm Nilesh Pant, a Senior Software Engineer and a tech enthusiast who loves building scalable microservices along with devops.
+  I'm Nilesh Pant, a Senior Software Engineer and a tech enthusiast who loves building scalable microservices along with devops.
 </p>
 
 <img align="right" alt="Nilesh GIF" src="https://github.com/NileshPant1999/NileshPant1999/blob/main/web_character_nilesh.gif" width="400px" />
